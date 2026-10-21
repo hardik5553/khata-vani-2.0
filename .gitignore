@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.zip
+*.log
+*.tmp
+*.db
+!prisma/schema.prisma
+prisma/*.db
+.env
+.env.local
+.env.*.local
